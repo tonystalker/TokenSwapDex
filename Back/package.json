@@ -1,0 +1,25 @@
+{
+  "name": "swapdexback",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonystalker/SwapDex.git"
+  },
+  "author": "Tony Stalker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tonystalker/SwapDex/issues"
+  },
+  "homepage": "https://github.com/tonystalker/SwapDex#readme",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "moralis": "^2.27.2"
+  }
+}
